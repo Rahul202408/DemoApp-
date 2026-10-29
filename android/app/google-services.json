@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690261084255",
+    "project_id": "jainambiodata-56a03",
+    "storage_bucket": "jainambiodata-56a03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690261084255:android:60bd71ece25e76a930f3ea",
+        "android_client_info": {
+          "package_name": "com.jainambiodata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxX8fbVG5YZh7eyNoepMJbrgWmX1PYfno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
